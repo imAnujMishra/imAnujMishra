@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AnujMishra
 - 👀 I’m interested in Artificial Intelligence ,Data Science and Web Development
 - 🌱 I’m currently learning C++.
-- I aspire To be an AI Engineer
+- I aspire To be an Data Analyst
 - 📫  reach me 
  @linkedIn https://www.linkedin.com/in/anuj-mishra-b2862822b/
 
